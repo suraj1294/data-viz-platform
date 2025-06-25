@@ -40,7 +40,7 @@ A modern React application for data visualization and scenario analysis with a f
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/data-viz-platform.git
+   git clone https://github.com/suraj1294/data-viz-platform.git
    cd data-viz-platform
    ```
 
