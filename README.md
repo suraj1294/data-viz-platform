@@ -125,13 +125,13 @@ A modern React application for data visualization and scenario analysis with a f
 
 ## Time Spent
 
-- Initial setup and project structure: 4 hours
-- Authentication system implementation: 6 hours
-- Dashboard and visualization components: 10 hours
-- Variable configuration panel: 5 hours
-- UI components and styling: 8 hours
-- Testing and bug fixes: 3 hours
-- Documentation: 2 hours
+- Initial setup and project structure: 2 hours
+- Authentication system implementation: 1.5 hours
+- Dashboard and visualization components: 5-6 hours
+- Variable configuration panel: 1 hours
+- UI components and styling: 1/2 hours
+- Testing and bug fixes: 2 hours
+- Documentation: 1 hours
 
 Total: Approximately 38 hours
 
