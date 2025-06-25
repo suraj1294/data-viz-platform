@@ -133,7 +133,7 @@ A modern React application for data visualization and scenario analysis with a f
 - Testing and bug fixes: 2 hours
 - Documentation: 1 hours
 
-Total: Approximately 38 hours
+Total: Approximately 12 hours
 
 ## License
 
